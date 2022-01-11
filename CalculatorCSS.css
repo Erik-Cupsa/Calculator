@@ -1,0 +1,59 @@
+.screen {
+  text-align: right;
+  height: 40px;
+  width: 320px;
+}
+.topbar {
+  height: 40px;
+  width: 60px;
+  font-size: 15px;
+  background-color: lightblue;
+  border-radius: 5px;
+}
+.clear {
+  height: 40px;
+  width: 60px;
+  font-size: 15px;
+  background-color: pink;
+  border-radius: 5px;
+}
+.rowOne {
+  height: 60px;
+  width: 60px;
+  font-size: 20px;
+  background-color: lightblue;
+  border-radius: 5px;
+}
+.number {
+  height: 60px;
+  width: 60px;
+  font-size: 20px;
+  background-color: yellow;
+  border-radius: 5px;
+}
+.symbols {
+  height: 60px;
+  width: 60px;
+  font-size: 20px;
+  background-color: #afa7b7;
+  border-radius: 5px;
+}
+.pointandnegative {
+  height: 60px;
+  width: 60px;
+  font-size: 20px;
+  border-radius: 5px;
+}
+.equal {
+  height: 70px;
+  width: 320px;
+  font-size: 20px;
+  border-radius: 5px;
+  background-color: lightgreen;
+}
+.border {
+  background-color: grey;
+  padding: 10px;
+  width: 320px;
+  height: auto;
+}
